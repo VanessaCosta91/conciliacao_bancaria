@@ -1,3 +1,12 @@
 # Default ignored files
-/shelf/
-/workspace.xml
+# PyCharm
+.idea/
+
+# Cache e arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambiente virtual
+venv/
+.env/
