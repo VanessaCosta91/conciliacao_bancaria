@@ -1,0 +1,101 @@
+Data,Valor,Cliente,Meio_de_Pagamento,NSU
+2025-06-18,51.17,João,Cartão de Crédito,000
+2025-07-01,59.07,Maiara,Pix,001
+2025-06-20,138.14,Roberto,Pix,002
+2025-07-02,85.15,Pedro,Pix,003
+2025-06-21,75.67,Fernanda,Boleto,004
+2025-07-01,145.78,João,Pix,005
+2025-06-14,245.63,Carlos,Cartão de Débito,006
+2025-06-30,63.53,Maria,Pix,007
+2025-07-06,126.38,Maria,Cartão de Débito,008
+2025-06-19,94.07,Roberto,Boleto,009
+2025-06-21,54.95,Carlos,Pix,010
+2025-06-21,102.09,Fernanda,Cartão de Débito,011
+2025-06-20,73.84,Maiara,Pix,012
+2025-06-17,83.81,João,Pix,013
+2025-06-11,85.18,Maiara,Boleto,014
+2025-06-30,146.95,Maria,Cartão de Crédito,015
+2025-06-27,119.48,Fernanda,Cartão de Débito,016
+2025-06-16,282.26,Fernanda,Pix,017
+2025-06-19,197.79,Luciana,Cartão de Crédito,018
+2025-07-03,149.43,João,Cartão de Crédito,019
+2025-06-17,110.8,Roberto,Cartão de Crédito,020
+2025-06-12,28.99,Maria,Boleto,021
+2025-06-30,38.53,Pedro,Cartão de Débito,022
+2025-07-02,203.52,Carlos,Boleto,023
+2025-07-04,94.17,José,Cartão de Débito,024
+2025-06-15,183.68,Pedro,Boleto,025
+2025-06-27,81.41,Cleide,Boleto,026
+2025-07-06,231.62,Maiara,Cartão de Crédito,027
+2025-06-18,64.79,Fernanda,Boleto,028
+2025-06-19,37.79,Carlos,Boleto,029
+2025-06-22,90.4,Luciana,Pix,030
+2025-06-17,221.8,Fernanda,Cartão de Débito,031
+2025-06-14,199.47,Maiara,Cartão de Débito,032
+2025-06-25,64.28,Roberto,Cartão de Débito,033
+2025-06-22,233.35,Luciana,Pix,034
+2025-06-11,195.08,Fernanda,Cartão de Crédito,035
+2025-07-04,124.7,Cleide,Pix,036
+2025-06-19,110.76,Roberto,Pix,037
+2025-06-09,121.63,João,Cartão de Crédito,038
+2025-07-07,87.44,Pedro,Pix,039
+2025-07-06,224.93,Maiara,Cartão de Crédito,040
+2025-07-04,204.73,Luciana,Cartão de Crédito,041
+2025-06-30,167.75,Pedro,Boleto,042
+2025-06-08,79.3,Luciana,Cartão de Crédito,043
+2025-06-16,107.28,Fernanda,Cartão de Débito,044
+2025-06-24,271.89,Ana,Pix,045
+2025-07-01,82.92,Maria,Pix,046
+2025-06-20,175.1,Pedro,Cartão de Crédito,047
+2025-07-08,39.88,Fernanda,Pix,048
+2025-07-01,38.87,Roberto,Cartão de Débito,049
+2025-07-06,163.96,João,Boleto,050
+2025-07-02,170.99,Pedro,Boleto,051
+2025-07-01,239.69,Carlos,Cartão de Crédito,052
+2025-07-05,47.14,Carlos,Cartão de Débito,053
+2025-06-25,135.11,Roberto,Pix,054
+2025-07-07,132.73,Maria,Pix,055
+2025-07-01,73.65,Luciana,Boleto,056
+2025-07-04,138.13,João,Boleto,057
+2025-07-01,264.86,Maiara,Boleto,058
+2025-06-13,261.18,Luciana,Pix,059
+2025-07-07,202.6,Luciana,Pix,060
+2025-07-06,279.38,José,Cartão de Crédito,061
+2025-06-25,155.98,José,Boleto,062
+2025-06-10,36.42,Carlos,Pix,063
+2025-06-26,94.26,Ana,Cartão de Débito,064
+2025-06-25,215.05,Luciana,Boleto,065
+2025-07-04,73.17,José,Pix,066
+2025-06-20,226.01,Roberto,Cartão de Débito,067
+2025-07-07,34.04,Ana,Cartão de Crédito,068
+2025-07-07,289.02,Maiara,Cartão de Crédito,069
+2025-07-06,186.61,Fernanda,Cartão de Crédito,070
+2025-06-26,53.57,Pedro,Cartão de Crédito,071
+2025-06-20,186.47,Pedro,Pix,072
+2025-06-25,204.06,Pedro,Cartão de Débito,073
+2025-06-09,93.01,Fernanda,Cartão de Débito,074
+2025-07-01,94.37,Cleide,Cartão de Débito,075
+2025-06-24,108.53,Maiara,Pix,076
+2025-06-24,193.92,Pedro,Pix,077
+2025-07-06,170.54,Luciana,Cartão de Débito,078
+2025-07-04,281.31,Maiara,Cartão de Crédito,079
+2025-06-27,99.8,Ana,Cartão de Débito,080
+2025-06-19,295.48,Fernanda,Pix,081
+2025-06-17,248.79,João,Pix,082
+2025-06-08,265.88,João,Pix,083
+2025-06-10,49.97,Luciana,Cartão de Crédito,084
+2025-06-30,98.89,José,Cartão de Débito,085
+2025-07-02,212.5,João,Boleto,086
+2025-06-30,273.49,Roberto,Pix,087
+2025-06-18,138.6,João,Pix,088
+2025-07-08,113.4,Cleide,Cartão de Débito,089
+2025-07-03,227.54,Luciana,Boleto,090
+2025-06-21,22.71,Maiara,Cartão de Crédito,091
+2025-06-21,30.09,Maria,Cartão de Crédito,092
+2025-06-25,55.68,João,Cartão de Débito,093
+2025-06-10,281.26,Roberto,Cartão de Débito,094
+2025-07-02,210.98,Fernanda,Pix,095
+2025-06-27,238.43,Carlos,Cartão de Crédito,096
+2025-06-09,280.37,Cleide,Cartão de Crédito,097
+2025-06-10,135.44,Cleide,Cartão de Débito,098
+2025-06-13,280.63,Fernanda,Cartão de Crédito,099
